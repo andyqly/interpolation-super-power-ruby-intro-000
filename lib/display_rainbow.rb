@@ -1,5 +1,5 @@
 def display_rainbow(color)
-  "R" = "red"
+  "R" = ["red"]
   "O" = "orange"
   "Y" = "yellow"
   "G" = "green"
